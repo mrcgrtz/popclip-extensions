@@ -1,1 +1,3 @@
-open $POPCLIP_OPTION_JIRA/browse/$POPCLIP_TEXT
+URL="$POPCLIP_OPTION_JIRA/browse/$POPCLIP_TEXT"
+open $URL
+echo $URL | pbcopy

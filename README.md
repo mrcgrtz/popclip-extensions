@@ -13,6 +13,7 @@ These are some personal Popclip extensions I use on a regular basis.
    installation, append the ticket ID… ugh! Struggle no more, here comes
    the Popclip Jira ID extension: Just select the ticket ID, click the
    fancy Jira icon in Popclip and… abracadabra, there you go!
+   Additionally the URL is put into your clipboard.
 
 ## License
 

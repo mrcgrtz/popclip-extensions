@@ -5,6 +5,7 @@ These are some personal Popclip extensions I use on a regular basis.
 ## List of extensions
 
  * **Jira ID**<br>
+   ![Jira ID Sample](https://cdn.rawgit.com/Dreamseer/popclip-extensions/master/jira-id-sample.png)<br>
    You all know this: The Project Manager Guy comes along asking “Hey,
    what about LOLPROJECT-1337? Will it be in the release next week?”, or
    the Controlling Guy asks “Can you put some estimates on AWESOME-42?”

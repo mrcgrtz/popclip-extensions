@@ -13,7 +13,7 @@ extensions I use on a regular basis.
    And you need to fire up your browser, type in the URL of your Jira
    installation, append the ticket ID… ugh! Struggle no more, here comes
    the PopClip Jira ID extension: Just select the ticket ID, click the
-   fancy Jira icon in Popclip and… abracadabra, there you go!
+   fancy Jira icon in PopClip and… abracadabra, there you go!
    Additionally the URL is put into your clipboard.
 
 ## License

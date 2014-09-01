@@ -1,0 +1,1 @@
+open $POPCLIP_OPTION_JIRA/browse/$POPCLIP_TEXT

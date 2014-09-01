@@ -1,6 +1,7 @@
-# My Popclip extensions
+# My PopClip extensions
 
-These are some personal Popclip extensions I use on a regular basis.
+These are some personal [PopClip](http://pilotmoon.com/popclip)
+extensions I use on a regular basis.
 
 ## List of extensions
 
@@ -11,7 +12,7 @@ These are some personal Popclip extensions I use on a regular basis.
    the Controlling Guy asks “Can you put some estimates on AWESOME-42?”
    And you need to fire up your browser, type in the URL of your Jira
    installation, append the ticket ID… ugh! Struggle no more, here comes
-   the Popclip Jira ID extension: Just select the ticket ID, click the
+   the PopClip Jira ID extension: Just select the ticket ID, click the
    fancy Jira icon in Popclip and… abracadabra, there you go!
    Additionally the URL is put into your clipboard.
 

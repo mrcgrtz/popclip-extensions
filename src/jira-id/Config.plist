@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Version</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>Extension Name</key>
 	<string>Jira ID</string>
 	<key>Extension Identifier</key>
@@ -22,7 +22,7 @@
 			<key>Stoppable</key>
 			<true/>
 			<key>Regular Expression</key>
-			<string>^[a-zA-Z]+-\d+$</string>
+			<string>[a-zA-Z]+-\d+</string>
 		</dict>
 	</array>
 	<key>Options</key>

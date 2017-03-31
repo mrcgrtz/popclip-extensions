@@ -16,9 +16,14 @@ extensions I use on a regular basis.
    fancy Jira icon in PopClip and… abracadabra, there you go!
    Additionally the URL is put into your clipboard.
 
+ * **Open in Chrome Canary**<br>
+   This is almost the same extension as
+   [Open in Chrome](http://pilotmoon.com/popclip/extensions//page/OpenInChrome),
+   but it opens the current URL in Chrome Canary.
+
 ## License
 
-Copyright (c) 2014–2016 Marc Görtz <https://marcgoertz.de/>
+Copyright (c) 2014–2017 Marc Görtz <https://marcgoertz.de/>
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the

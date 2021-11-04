@@ -1,0 +1,22 @@
+{
+  "popclip version": 3785,
+  "identifier": "de.marcgoertz.popclip.extension.jira-id",
+  "name": "Jira ID",
+  "description": "Opens a Jira ticket by its ID in your default browser.",
+  "icon": "jira.png",
+  "options": [
+    {
+      "identifier": "jira",
+      "type": "string",
+      "label": "Jira URL (w/o trailing slash)"
+    }
+  ],
+  "actions": [
+    {
+      "title": "Open in Jira",
+      "icon": "jira.png",
+      "regex": "[a-zA-Z]+-\\d+",
+      "shell script file": "jira.sh"
+    }
+  ]
+}

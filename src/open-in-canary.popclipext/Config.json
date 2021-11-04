@@ -1,0 +1,28 @@
+{
+  "popclip version": 3785,
+  "identifier": "de.marcgoertz.popclip.extension.open-in-canary",
+  "name": "Open in Chrome Canary",
+  "description": "Opens a link in Google Chrome Canary.",
+  "icon": "chrome.png",
+  "requirements": [
+    "urls"
+  ],
+  "actions": [
+    {
+      "title": "Open in Chrome Canary",
+      "icon": "chrome.png",
+      "shell script file": "open-in-canary.sh",
+      "app": {
+        "name": "Google Chrome Canary",
+        "link": "https://www.google.com/chrome/browser/canary.html",
+        "check installed": true,
+        "bundle identifiers": [
+          "com.google.Chrome.Canary"
+        ]
+      },
+      "excluded apps": [
+        "com.google.Chrome.Canary"
+      ]
+    }
+  ]
+}

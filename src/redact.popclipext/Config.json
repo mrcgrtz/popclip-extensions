@@ -1,0 +1,23 @@
+{
+  "popclip version": 3785,
+  "identifier": "de.marcgoertz.popclip.extension.redact",
+  "name": "Redact",
+  "description": "Redact the selected text.",
+  "icon": "redact.png",
+  "options": [
+    {
+      "identifier": "symbol",
+      "type": "string",
+      "label": "Redacting symbol",
+      "default value": "▬"
+    }
+  ],
+  "actions": [
+    {
+      "title": "Redact",
+      "icon": "redact.png",
+      "shell script file": "redact.sh",
+      "after": "paste-result"
+    }
+  ]
+}
